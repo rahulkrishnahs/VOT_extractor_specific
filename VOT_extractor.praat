@@ -1,5 +1,6 @@
 # ============================================================
 # Praat Script: Extract Label Tier Durations with Phoneme Context
+    Made by Rahul Krishna H S
 # ============================================================
 # Rules:
 #   - Extract durations (ms) from 'label' tier
