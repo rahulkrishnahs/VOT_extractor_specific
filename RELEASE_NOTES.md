@@ -1,6 +1,6 @@
 # Release Notes — extract_durations.praat
 
-**Author:** rahulkrishnahs — https://github.com/rahulkrishnahs
+**Author:** Rahul Krishna H S — https://github.com/rahulkrishnahs
 
 ---
 
