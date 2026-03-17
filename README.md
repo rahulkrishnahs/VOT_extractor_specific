@@ -2,7 +2,7 @@
 
 ## Author
 
-**rahulkrishnahs** — https://github.com/rahulkrishnahs
+**Rahul Krishna H S** — https://github.com/rahulkrishnahs
 
 ---
 
